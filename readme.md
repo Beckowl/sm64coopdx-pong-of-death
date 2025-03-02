@@ -3,7 +3,7 @@ A direct translation of Frauber's original Pong of Death GameShark code. In thei
 
 `What if, besides playing Mario 64, you had also to beat the computer in a game of Pong?`
 
-![Preview](resources/demo.gif)
+![Alt Text](resources/demo.gif)
 
 Control the left paddle with **D-Up/D-Down**; the right paddle is controlled by the computer. First to **10 points** wins:  
 - **Mario wins**: Earn rewards  
